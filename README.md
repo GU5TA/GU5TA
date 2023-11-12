@@ -5,7 +5,7 @@
 [![linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavop-lima)
 
 
-[![Gustavolima77 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gusatvolima77&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Gustavolima77 GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Gustavolima77&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Gustavolima77 GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=Gustavolima77&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 ### FRONT END
