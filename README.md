@@ -23,7 +23,7 @@
 <div style="display: inline_block"><br/>
 <img align="center" alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align= "center"alt=supabase src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"
+<img align= "center"alt=supabase src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white"/>
 <img align= "center"alt=python src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"<div>
 
 ### Hardware.
